@@ -131,8 +131,10 @@ Replace the https://user.github.io/fetch.json with your fetching json.  It shoul
 ```
 
 Your full html file can look like this:
+*Don't forget to add this: <!DOCTYPE html>*
 
 ```html
+<!DOCTYPE html>
 <table id="tasklist">
     <tr>
       <th>Class</th>
@@ -202,7 +204,7 @@ You might get this error in the console:
 Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://user.github.io/fetch.json. (Reason: CORS header ‘Access-Control-Allow-Origin’ missing). Status code: 404.
 ```
 Just make sure you have the files in the same github page.
-If you have any more issues you can email me here: <email>
+If you have any more issues you can email me here: [email](mailto:help.coder@outlook.com?subject=Message)
 
 ## Sources
 
