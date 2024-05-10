@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <table id="tasklist">
     <tr>
       <th>Class</th>
@@ -32,7 +33,7 @@
 </style>
 
 <script>
-fetch('https://help-coder.github.io/fetching-json-to-js/fetch.json')
+fetch('https://user.github.io/fetch.json')
   .then(response => response.json())
   .then(data => {
     // Once the JSON data is retrieved, you can populate the table with it
@@ -58,4 +59,3 @@ fetch('https://help-coder.github.io/fetching-json-to-js/fetch.json')
   });
 }
 </script>
-
