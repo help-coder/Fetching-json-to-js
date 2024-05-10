@@ -2,16 +2,16 @@
   {
     "Class": "Math",
     "Task": "Area, Perimeter...",
-    "DueDate": "10/05/2024",
+    "DueDate": "10/05/2024"
   },
   {
     "Class": "English",
     "Task": "bookname book study",
-    "DueDate": "n/a",
+    "DueDate": "n/a"
   },
   {
     "Class": "Random task",
     "Task": "blah, blah",
-    "DueDate": "today",
+    "DueDate": "today"
   }
 ]
