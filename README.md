@@ -114,17 +114,17 @@ Replace the https://user.github.io/fetch.json with your fetching json.  It shoul
   {
     "Class": "Math",
     "Task": "Area, Perimeter...",
-    "DueDate": "10/05/2024",
+    "DueDate": "10/05/2024"
   },
   {
     "Class": "English",
     "Task": "bookname book study",
-    "DueDate": "n/a",
+    "DueDate": "n/a"
   },
   {
     "Class": "Random task",
     "Task": "blah, blah",
-    "DueDate": "today",
+    "DueDate": "today"
   }
 ]
 
@@ -211,8 +211,8 @@ Here are the tools used in this project
 | Source | Website |
 | ------ | ------ |
 | GitHub | https://github.com/ |
-| Github reposetry (source code) | [plugins/googledrive/README.md][PlGd] |
+| Github reposetry (source code) | https://github.com/help-coder/Fetching-json-to-js |
 
 ## Contributors
 
-Calicat_ [[github]](github)
+help-coder [github](https://github.com/help-coder) [email](mailto:help.coder@outlook.com?subject=Message)
